@@ -44,3 +44,42 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+
+
+
+Hello, Upul.
+
+Thank you for reaching back to the FastComet Tech Support Team.
+
+As per your update, I thoroughly reviewed your case and I would be glad to elaborate, that I was successfully able to start your application. Currently, the app is live and accessible, as per:
+
+> https://paste.pics/NH322
+
+I would like to elaborate, that I:
+
+1. Created a new Node instance via the Setup Node tool within your cPanel account.
+2. Extracted the files of your application within the directory of the new Node app.
+3. Accessed the newly created node environment via the provided command within the Node tool:
+
+> source /home/rangabot/nodevenv/rangabot.com/14/bin/activate && cd /home/rangabot/rangabot.com
+
+4. Installed all required node modules.
+5. Started your application via a screen user - accessible with the following command:
+
+> screen -R 353067.node.app
+
+We remain 24/7 available and at your disposal, should you require any further assistance.
+
+Kind Regards,
+
+Ivan I.
+FastComet Tech Support
+--
+Website: https://www.fastcomet.com/
+Facebook: https://www.facebook.com/fastcometcloud/
+Twitter: https://twitter.com/fastcometcloud/
+Leave a Review for me: https://www.trustpilot.com/review/www.fastcomet.com
+
